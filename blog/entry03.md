@@ -4,9 +4,9 @@
 ## In this entry of my blog we will be talkinmg about the furture of cookiong technologies answering the five Wś about cooking technologies and how will they impact the future of cooking.Below is what I gathered about the past present and future of cooking technologies and how they answer the five Wś about cooking technologies and how will they impact the future of cooking;
 ##TOPIC:Cooking
 
-##Content: 
-##Context:What is Cooking?
-###Cooking is the creation of an edible in which a human can consume mostly without consequence.
+## Content: 
+## Context:What is Cooking?
+### Cooking is the creation of an edible in which a human can consume mostly without consequence.
 Cooking can go from toasting up bread slices with butter to making a complex turducken.
 Cooking is considered edible adult arts and crafts as you are making masterpieces and both cooking and art require skills that need between months sometimes even years of refining.
 Finally cooking is an essential life skill all people have in order to survive.
