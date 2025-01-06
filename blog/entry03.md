@@ -54,7 +54,7 @@
 #### The future of cooking technologies
 #### Topic:The Ulti-Oven.
 #### My big idea for future cooking is the Ulti oven;a fully capable AI oven programmed by humans that makes you a full course meal including cold cold drinks and desserts.
-15 details/facts about the Ulti-oven;
+#### 15 details/facts about the Ulti-oven;
 #### 1:The ulti-oven shall use multiple components;The ulti oven would need multiple components in order to function properly and make the user the desired meal rather it be hot or cold,small or big or anything and everything the user desires from a slice of buttered toast to a tasty rotarise chicken with all the fixings on it.
 #### 2:The person who programs it should be an expert in food and coding in order to prevent any and all future mishaps from happening when it comes to the operation of the machine.
 #### 3:The machine while have a cold component for salads,cold appetizers,entrees,drinks,and desserts along with a room temperature component for snacks,a recycling comparnet for leftovers with its own hot and cold components  ,a hot component for hot appetizers,entrees,drinks,and desserts and finally a tray compartment for the tray of all the food that comes out of the machine.
