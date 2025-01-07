@@ -1,5 +1,5 @@
 # Entry 3:The Future of Cooking Technologies.
-##### 1/1/2025
+# Date:1/1/2025
 
 ## In this entry of my blog we will be talkinmg about the furture of cookiong technologies answering the five Wś about cooking technologies and how will they impact the future of cooking.Below is what I gathered about the past present and future of cooking technologies and how they answer the five Wś about cooking technologies and how will they impact the future of cooking;
 ## TOPIC:Cooking
