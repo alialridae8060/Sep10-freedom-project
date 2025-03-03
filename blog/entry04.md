@@ -13,6 +13,17 @@
 
 ## And finally link to the website on CSS Flexbox:https://www.w3schools.com/css/css_grid.asp .
 
+## How I tinkered with CSS variables:What I did was create a pickcode project and I got a paragraph from my ulti-oven blog from the previous entry and I used the CSS varaiables to give the webpage some razzle dazzling color and these links show the result:
+
+## links to pickcode prototype:
+
+## link to pickcode prototype css code:https://app.pickcode.io/project/cm7t8bxwap1mclhn2nexiodpo
+
+## link to pickcode prototype output:https://app.pickcode.io/share/cm7t8bxwap1mclhn2nexiodpo
+
+## I hope this blog explians how I tinkered with the CSS variables code and how I would use it for my website.See you all till myy next blog.
+
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
