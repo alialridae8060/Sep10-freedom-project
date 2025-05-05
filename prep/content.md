@@ -17,5 +17,22 @@ Topic:Cooking technologies
                 </ul>
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* The future of cooking technologies.
+Topic:The Ulti-Oven.
+My big idea for future cooking is the Ulti oven;a fully capable AI oven programmed by humans that makes you a full course meal including cold cold drinks and desserts.
+15 details/facts about the Ulti-oven;
+1:The ulti-oven shall use multiple components;The ulti oven would need multiple components in order to function properly and make the user the desired meal rather it be hot or cold,small or big or anything and everything the user desires from a slice of buttered toast to a tasty rotarise chicken with all the fixings on it.
+2:The person who programs it should be an expert in food and coding in order to prevent any and all future mishaps from happening when it comes to the operation of the machine.
+3:The machine while have a cold component for salads,cold appetizers,entrees,drinks,and desserts along with a room temperature component for snacks,a recycling comparnet for leftovers with its own hot and cold components  ,a hot component for hot appetizers,entrees,drinks,and desserts and finally a tray compartment for the tray of all the food that comes out of the machine.
+4:It works when somebody places in the ingredients for the meal they want,type in the instructions for the machine and let the magic happen with the ending being they get a delicious tasting meal and a high satisfaction for the invention.
+5:Seasoning for the consumables will either be placed in separate compartments,be placed in the desired and required compartments or be offered to the user in the tray and allow them to control the seasoning level.
+6:The machine will have a specifications bar that will allow the user to control how they want the food prepared from simple salt content to complex temperature control.
+7:Now the user can either put in the ingredients themselves or pay extra have the ulti oven connected to other kitchen appliances for removal of the extra work of manually loading the machine with ingredients but will require further coding due to the machine now needing to automatically pick and transport the required ingredients from their storage areas to the ulti-ovens compartments.
+8:Once done the oven will have an automatic cleaning system which will clean it internally or if the user wants to save a buck and time with the machine and its programing they can request for a version without the automatic cleaning system and do it themselves but when it comes to the internal cleaning system they must make sure the oven is stalked with cleaning supplies for the automatic cleaning system to work properly.
+9:The machine however will cost the same as operating a restaurant level kitchen for one month when it comes to the user’s rent but runs on any and all types of power including the rare static shocks of all objects of matter and living beings.
+10:And it will come with spare parts and the user most do a parts check through a online feature at least once a week and replace any parts that need replacement or the machine will malfunction however if it is much more serious the user needs to call the company and request for a maintenance mechanic and programer to come and fix the machine right.
+11:To be more specific the components for the machine will be that of all kitchen components no matter if they run on electricity or not.
+12:Due to its high cost and space customers will be requested if they can prepare a full room and power source for the ulti-oven.
+13:The AI in the oven will also know when it needs to take a rest and for how long , informing the user and shutting down for good if needed until it is ready to resume operations again.
+14:In addition it will need an entire shipping crate to be transported to the destinations the user wishes to send.
+15:Finally it will be made out of tungsten,silicone rubber and peek plastic all of which have the highest melting points and are expensive to extract and convert into materials a part of its high cost.Ulti-ovens with cheaper materials will be available but will have less options than the more expensive ulti-ovens.
