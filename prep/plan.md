@@ -43,7 +43,7 @@ add css color for background.
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Ekrar  | I like the details you put for the information on cooking. I didn´t know that 2.3 billion peooplle don´t have access to clean cooking  | Instead of having the full links on the Website Portal, you can shorten it by having a word that describes the site and then embed the link into it. 
-|   |   |
+|  Crystopher | I like the amount of details you put into the website. I had no idea there were a ton of steps for cooking a good meal. Very specific with text and headers.  | You can add more colors, make sections into their own separate space, input fonts, space text apart, make the proper links works so that it is a short text that links automatically to the websites.
 |   |   |
 |   |   |
 |   |   |
