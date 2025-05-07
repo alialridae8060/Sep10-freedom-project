@@ -20,3 +20,14 @@ h3.customfont {
     font family: ¨Lora¨;
 }
 
+:root {
+    --blue: #6495ed;
+    --white: #faf0e6;
+  }
+
+  body { background-color: var(--blue); }
+
+  h2 { border-bottom: 2px solid var(--blue); }
+
+
+
