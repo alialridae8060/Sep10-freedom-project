@@ -46,8 +46,8 @@ add css color for background.
 |  Crystopher | I like the amount of details you put into the website. I had no idea there were a ton of steps for cooking a good meal. Very specific with text and headers.  | You can add more colors, make sections into their own separate space, input fonts, space text apart, make the proper links works so that it is a short text that links automatically to the websites.
 | Cammi | I like your detailed information about the billions of people who do not have access to clean cooking supplies. | Your website can have more color, instead of being only white.
 | Bah  |  I like the future technology idea, the oven you designed seems very useful. | You should try adding colors and shortening your information to summarize the website.
-| 1  | colors  |
-|  2  | shorterning the links  |
-| 3 |other changes suggested|
+| 1  | colors  
+|  2  | shorterning the links  
+| 3 |other changes suggested
 
 -->
