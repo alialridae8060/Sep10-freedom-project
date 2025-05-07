@@ -25,9 +25,9 @@ h3.customfont {
     --white: #faf0e6;
   }
 
-  body { background-color: var(--blue); }
+ body { background-color: var(--blue); }
 
-  h2 { border-bottom: 2px solid var(--blue); }
+ h2 { border-bottom: 2px solid var(--blue); }
 
 
 
