@@ -22,12 +22,24 @@ h3.customfont {
 
 :root {
     --blue: #6495ed;
-    --white: #faf0e6;
+    --green: #faf0e6;
+    --red: #fa64;
   }
 
- body { background-color: var(--blue); }
 
- h2 { border-bottom: 2px solid var(--blue); }
+ h1 { background-color: var(--blue); }
+
+ h2 { background-color: var(--blue); }
+
+ h3 { background-color: var(--blue); }
+
+ p { background-color: var(--green); }
+
+ li { background-color: var(--red); }
+
+
+
+
 
 
 
