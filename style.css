@@ -6,18 +6,23 @@
 }
 p.customfont {
     font-family: ¨Lora¨;
+    font-weight: 600px ;
 }
 li.customfont {
     font-family: ¨Lora¨;
+    font-weight: 125px ;
 }
 h1.customfont {
     font family: ¨Lora¨;
+    font-weight: 200px ;
 }
 h2.customfont {
     font family: ¨Lora¨;
+    font-weight: 200px ;
 }
 h3.customfont {
     font family: ¨Lora¨;
+    font-weight: 200px ;
 }
 
 :root {
@@ -27,15 +32,25 @@ h3.customfont {
   }
 
 
- h1 { background-color: var(--blue); }
+ h1 { background-color: var(--blue);
+     color: green;
+}
 
- h2 { background-color: var(--blue); }
+ h2 { background-color: var(--blue);
+      color: green;
+}
 
- h3 { background-color: var(--blue); }
+ h3 { background-color: var(--blue);
+      color: green;
+}
 
- p { background-color: var(--green); }
+ p { background-color: var(--green);
+     color: red;
+}
 
- li { background-color: var(--red); }
+ li { background-color: var(--red);
+      color: blue;
+}
 
 
 
