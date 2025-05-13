@@ -1,16 +1,20 @@
 # Presentation Plan
 
 ## Hook
-* 
+* <p>Hook:The Evolution of Cooking Technologies brought to you by CSS Variables.
+Alialrida Elhage </p>
 
 ## Product
-* 
+* Product:A informant website that presents a detailed description of the evolution (past and present)of cooking technologies and what the future of cooking technologies may look like and what product may come in the near future along with the current challenges people are faced with when it comes to cooking.
+
 
 ## Process
-* 
+* Process:The use of CSS Variables or cascading styling sheet variables to make the website look more cook friendly and hours of research for learning on how cooking technologies have evolved,what are the current challenges faced by people when it comes to cooking and what the future may hold and one product from the future.
+
 
 ## Conclusion
-* 
+* Conclusion:A proper ending to the presentation that would hopefully inspire others to incorporate CSS variables into their website coding and have others see the potential future in cooking technologies and help resolves the challenges people face with cooking technologies.
+Class
 
 <!-- EXAMPLE
 
