@@ -12,7 +12,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **C
 
 [Product](https://alialridae8060.github.io/Sep10-freedom-project/)
 
-[Presentation]([https://docs.google.com/presentation/d/1uU8najmyYZLvg8EI-eNs7D52u-nPoAxbYjXeiFRNNXc/edit])
+[Presentation](https://docs.google.com/presentation/d/1uU8najmyYZLvg8EI-eNs7D52u-nPoAxbYjXeiFRNNXc/edit)
 
 ## Implications
 ##### PROS
