@@ -19,6 +19,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **C
 <ul>
   <li>In terms of the law my wbestie is perfeclty legal and the product I am talking about would have all the legal bases covered. </li>
 </ul>
+
 ##### CONS
 * 
 
