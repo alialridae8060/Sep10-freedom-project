@@ -17,7 +17,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **C
 ## Implications
 ##### PROS
 <ul>
-  <li>In terms of the law my wbestie is perfeclty legal and the product I am talking about would have all the legal bases covered. </li>
+  <li>In terms of the law my wbestie is perfeclty legal and the product I am talking about would have all the legal bases involoved in its production covered. </li>
+  <li>As for the environment it would be an electric and diesel oven,both fules which would not harm the environment.</li>
+  <li>For individuals in the cooking industry it would help them better there knowledge for coooking especially if they are beginners.</li>
 </ul>
 
 ##### CONS
