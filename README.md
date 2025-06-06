@@ -20,10 +20,22 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **C
   <li>In terms of the law my wbestie is perfeclty legal and the product I am talking about would have all the legal bases involoved in its production covered. </li>
   <li>As for the environment it would be an electric and diesel oven,both fules which would not harm the environment.</li>
   <li>For individuals in the cooking industry it would help them better there knowledge for coooking especially if they are beginners.</li>
+  <li>As for those who value culture it would help them better with cultural meal prep.</li>
+  <li>As for jobs it might reslut in coders and profesional chefs working together.</li>
+  <li>As for finance both perosnal and coperate it would have little to no effect at all.</li>
+  <li>Infrastructure wise nothing much.</li>
 </ul>
 
 ##### CONS
-* 
+<ul>
+  <li>In terms of the law my wbestie could be used by criminals as we don have user id yet.</li>
+  <li>As for the environment it would have no effect.</li>
+  <li>For individuals in the cooking industry it would have them forget classical cooking.</li>
+  <li>As for those who value culture the oven may make it a bit differnt.</li>
+  <li>As for jobs it might reslut in cooking schools losing some students.</li>
+  <li>As for finance both perosnal and coperate it would have little to no effect at all.</li>
+  <li>Infrastructure wise nothing much.</li>
+</ul>
 
 
 ## Blog
